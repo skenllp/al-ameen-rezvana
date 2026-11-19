@@ -557,6 +557,17 @@ h2 {
     margin: 14px auto 0
 }
 
+.fam-quote {
+    font-family: 'Italiana', serif;
+    font-style: italic;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    letter-spacing: .04em;
+    color: var(--royal);
+    margin: 18px auto 4px;
+    max-width: 320px;
+}
+
 .reg {
     margin-top: 26px;
     text-align: center
