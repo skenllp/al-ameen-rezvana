@@ -503,8 +503,12 @@ h2 {
     text-transform: none;
 }
 
-.fam .cap.with {
-    margin: 22px 0 4px;
+.fam .heart {
+    margin: 14px auto;
+}
+
+.fam .heart + .nm {
+    margin-top: 14px;
 }
 
 .fam .hl {
